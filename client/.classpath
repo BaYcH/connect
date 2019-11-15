@@ -33,7 +33,7 @@
 	<classpathentry kind="lib" path="/Users/bayc/Documents/javaproject/connect/server/lib/extensions/dimse/dcm4che-core-2.0.28.jar"/>
 	<classpathentry kind="lib" path="/Users/bayc/Documents/javaproject/connect/server/lib/extensions/dimse/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="/Users/bayc/Documents/javaproject/connect/server/lib/extensions/dimse/slf4j-log4j12-1.6.1.jar"/>
-	<classpathentry kind="lib" path="/Server/setup/client-lib/userutil-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/bayc/Documents/javaproject/connect/server/setup/client-lib/userutil-sources.jar"/>
 	<classpathentry kind="lib" path="lib/not-yet-commons-ssl-0.3.11.jar"/>
 	<classpathentry kind="lib" path="lib/mirth-crypto.jar"/>
 	<classpathentry kind="lib" path="lib/commons-compress-1.4.1.jar"/>
