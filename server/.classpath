@@ -149,14 +149,6 @@
 	<classpathentry kind="lib" path="lib/extensions/ws/soapui-xmlbeans-4.0.1.jar"/>
 	<classpathentry kind="lib" path="lib/extensions/ws/wsdl4j-1.6.2-fixed.jar"/>
 	<classpathentry kind="lib" path="lib/extensions/ws/xbean-fixed-2.4.0.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Donkey">
-		<accessrules>
-			<accessrule kind="accessible" pattern="com/mirth/connect/donkey/server/**"/>
-			<accessrule kind="accessible" pattern="com/mirth/connect/donkey/model/**"/>
-			<accessrule kind="accessible" pattern="com/mirth/connect/donkey/util/**"/>
-			<accessrule kind="nonaccessible" pattern="*/**"/>
-		</accessrules>
-	</classpathentry>
 	<classpathentry kind="lib" path="lib/joda-time-2.2.jar"/>
 	<classpathentry kind="lib" path="lib/HikariCP-java6-2.3.2.jar"/>
 	<classpathentry kind="lib" path="lib/bcpkix-jdk15on-151.jar"/>
@@ -166,6 +158,7 @@
 	<classpathentry kind="lib" path="lib/jackson-core-2.5.3.jar"/>
 	<classpathentry kind="lib" path="lib/jackson-databind-2.5.3.jar"/>
 	<classpathentry kind="lib" path="lib/rhino-1.7.6.jar"/>
-	<classpathentry kind="lib" path="/Donkey/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/bayc/Documents/javaproject/connect/donkey/lib/guava-18.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/donkey"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
